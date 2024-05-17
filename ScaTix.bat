@@ -48,7 +48,6 @@ if %op%==6 goto 6
 if %op%==7 goto Exit
 if %op%==8 goto information
 if %op%==9 goto LeckEier
-if %op%==10 goto LeckEier
 goto error
 pause
 
