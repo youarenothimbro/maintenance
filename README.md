@@ -5,4 +5,4 @@ This program was written entirely with batch code, so it can also be easily edit
 
 You can do whatever you want with the code :)
 
-# Made by ScaTix can also be changed
+# Made by nCollective can also be changed
