@@ -1,7 +1,7 @@
 @echo off
-title nCollective maintenance
+title Unknown maintenance
 color 5
-echo MADE BY nCollective
+echo MADE BY Unknown
 echo.
 pause
 
