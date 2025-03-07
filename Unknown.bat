@@ -12,7 +12,7 @@ echo.
 
 echo Creating a Restorepoint
 
-set "RestorePointName=nCollectiveRestorePoint"
+set "RestorePointName=UnknownRestorePoint"
 
 wbadmin start backup -backupTarget:%SystemDrive% -include:%SystemDrive% -vssFull -allCritical -quiet
 
